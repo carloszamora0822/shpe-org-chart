@@ -1,1 +1,1 @@
-# she-org-chart
+# shpe-org-chart
